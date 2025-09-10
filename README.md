@@ -1,5 +1,3 @@
-# Fog_Dehazing_Project
-
 # Vision-Based Fog & Extreme Weather Perception System
 
 ## 🌫️ Motivation
